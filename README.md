@@ -75,3 +75,4 @@ $pinyin->sentence('带着希望去旅行，比到达终点更美好！', true);
 $pinyin->name('单某某'); // ['shan', 'mou', 'mou']
 $pinyin->name('单某某', PINYIN_UNICODE); // ["shàn","mǒu","mǒu"]
 ```
+### 引入方式请查看根目录 index.php
